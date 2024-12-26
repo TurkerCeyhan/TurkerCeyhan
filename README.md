@@ -8,7 +8,9 @@ I am passionate about developing web and mobile applications. While continuously
 
 > **Note:** These projects are currently in development. Stay tuned for updates!
 
-<span style="font-size: 20px; font-weight: bold;">BacBac: </span> <span style="font-size: 16px; font-style:italic;">Bacterial Colony Detection AI</span>
+#
+
+#### **BacBac**: _Bacterial Colony Detection AI_
 
 An AI-powered tool for bacterial colony detection.
 
@@ -17,7 +19,9 @@ An AI-powered tool for bacterial colony detection.
   - [Web Client](#)
   - [Server API](#)
 
-<span style="font-size: 20px; font-weight: bold;">Sfenkstar: </span> <span style="font-size: 16px; font-style:italic;">All Your Social Media, One Powerful App!</span>
+#
+
+#### **Sfenkstar**: _Social Media Profile Manager_
 
 A platform to manage and share social media profiles instantly via QR codes.
 
